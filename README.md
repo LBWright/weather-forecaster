@@ -1,3 +1,5 @@
+Created with boilerplate from Stephen Grider's ReduxSimpleStarter. The links can be found below. All content in this, aside from the boiler (folder directories and package.json) create was created by Logan Wright.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
